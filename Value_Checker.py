@@ -22,7 +22,7 @@ j = 1
 
 #This part takes your first subscriptions information
 
-subNames.append(input("What is the Name of your first subscription? "))
+subNames.append(input("What is the name of your first subscription? "))
 subCosts.append(float(input("What is the cost of your first subscription? ")))
 subTime.append(float(input("How much time did you spend using your first subscription? ")))
 subCounter.append(0)
