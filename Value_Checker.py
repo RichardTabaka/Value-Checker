@@ -55,5 +55,6 @@ for i in subCounter:
     z = str(round(subValue[i], 3))
     print("   " + subNames[i] + sp[len(subNames[i]):(len(sp)-5)] + z)
     print("")
+input()
 
 #Hopefully this helped you re-evaluate your spending habits and cut subscriptions you don't use!
